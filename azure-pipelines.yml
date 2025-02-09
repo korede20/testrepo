@@ -6,8 +6,8 @@
 trigger:
 - main
 
-pool:
-  vmImage: Newpool
+pool: 
+  Newpool
 
 variables:
   buildConfiguration: 'Release'
