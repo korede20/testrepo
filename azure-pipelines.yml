@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  vmImage: Lab2
+  vmImage: Newpool
 
 variables:
   buildConfiguration: 'Release'
